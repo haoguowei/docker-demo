@@ -12,7 +12,7 @@ public class DemoController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "docker! 你好.程序员。zxz";
+        return "docker! 你好.程序员。zxzr";
     }
 
 }
